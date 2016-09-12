@@ -1,0 +1,22 @@
+
+jQuery( function() {
+    
+    $('.Resize').on("resize", function(ev, ui) {
+	// box-sizing: border-box; に対応
+	ui.element.height(ui.size.height);
+	ui.element.width(ui.size.width);
+    });
+
+
+
+    $('.openBotton').click(function(){
+	$($(this).next('.open')).animate(
+	    {height:'toggle',opacity:'toggle'},
+	    'normal'
+	);
+
+    });
+
+} );
+
+

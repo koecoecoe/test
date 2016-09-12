@@ -1,0 +1,28 @@
+=====================
+ 平成26年度 春期試験
+=====================
+
+.. csv-table::
+   :header-rows: 1
+   :class: toukei table table-bordered table-striped
+
+   応募者数,受験者数,受験率,合格者数,合格率
+   "65,141人","46,005人","70.6%","11,003人","23.9%"
+
+H26春午前
+=========
+	 
+.. raw:: html
+	 
+	 <div class="openBotton"><a class="jqpdf" target="blank" href="./_static/pdfjs/web/viewer.html?file=http://192.168.12.129/shiken/_build/html/_static/Heisei26Springlite.pdf#page=2&zoom=80,-70,765">H26秋午前</a>[PDF]</div>
+   
+	 <div class="open Resize pdfjs"><iframe src="./_static/pdfjs/web/viewer.html?file=http://192.168.12.129/shiken/_build/html/_static/Heisei26Springlite.pdf#page=2&zoom=80,-70,765" width="100%" height="100%"  allowfullscreen></iframe></div>
+
+H26春午後
+=========
+	 
+.. raw:: html
+	 
+	 <div class="openBotton"><a class="jqpdf" target="blank" href="./_static/pdfjs/web/viewer.html?file=http://192.168.12.129/shiken/_build/html/_static/Heisei26Springlite.pdf#page=48&zoom=80,-70,765">H26秋午後</a>[PDF]</div>
+   
+	 <div class="open Resize pdfjs"><iframe src="./_static/pdfjs/web/viewer.html?file=http://192.168.12.129/shiken/_build/html/_static/Heisei26Springlite.pdf#page=48&zoom=80,-70,765" width="100%" height="100%"  allowfullscreen></iframe></div>
